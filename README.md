@@ -1,9 +1,3 @@
-> **Mobile Investment App Data Extraction via Traffic Interception**
-
-This document is structured for clarity, reproducibility, and professionalism — ideal for publishing on GitHub or internal documentation.
-
----
-
 # 📱📊 Mobile Investment App Data Extraction via Traffic Interception
 
 This project demonstrates a complete pipeline to extract financial and company data from a mobile investment application by intercepting mobile network traffic using `mitmproxy`. It is designed for experienced data analysts and scraping professionals who need access to structured data when no public API or web interface is available.
@@ -12,30 +6,31 @@ This project demonstrates a complete pipeline to extract financial and company d
 
 ## 🔍 Purpose
 
-Many financial and investment apps contain high-value data — including company profiles, analyst ratings, stock fundamentals, and ETF holdings — but do not offer official APIs or accessible web interfaces. This project outlines how to:
+Many financial and investment apps contain high‑value data—including company profiles, analyst ratings, stock fundamentals, and ETF holdings—but do not offer public APIs. This project outlines how to:
 
-- Intercept mobile app traffic
-- Identify and reverse-engineer hidden API endpoints
-- Extract data in structured format (JSON/CSV)
-- Reuse and automate API calls using Python
+- Intercept mobile app HTTPS traffic
+- Identify and reverse‑engineer hidden API endpoints
+- Extract structured JSON data
+- Automate and export data to CSV/JSON via Python
 
 ---
 
 ## ⚠️ Disclaimer
 
-> This project is intended for **educational and personal use only**. Scraping or intercepting data from third-party apps may violate their [Terms of Service](#) and local laws. Always obtain permission before using this technique for commercial or production purposes.
+> This project is intended for **educational and personal use only**. Scraping or intercepting data from third‑party apps may violate their [Terms of Service](#) and local laws. Always obtain permission before using this technique for commercial or production purposes.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-| Tool         | Purpose                          |
-|--------------|----------------------------------|
-| [mitmproxy](https://mitmproxy.org/) | HTTPS traffic interception proxy |
-| Python       | Data extraction and automation   |
-| pandas       | Data formatting and CSV export   |
-| Android/iOS  | Target platform for the app      |
-| Wi-Fi        | Local network proxying           |
+| Tool                          | Purpose                                  |
+|-------------------------------|------------------------------------------|
+| [mitmproxy](https://mitmproxy.org/) | HTTPS traffic interception proxy       |
+| Python                        | Data extraction and automation           |
+| pandas                        | Data framing and CSV/JSON export         |
+| Android Studio + Emulator     | Proxy target and pinning bypass          |
+| Frida / Objection             | Certificate‑pinning bypass               |
+| Wi‑Fi                         | Local network proxying                   |
 
 ---
 
@@ -45,178 +40,183 @@ Many financial and investment apps contain high-value data — including company
 mobile-investment-data/
 │
 ├── README.md
-├── extract.py                # Python script to replicate and automate API calls
-├── sample_capture.log        # (Optional) Example mitmproxy capture
-├── data/
-│   └── companies.csv         # Output data
+├── extract.py                # Python script to automate API calls
+├── unpin.js                  # Frida script to bypass SSL pinning
+├── patched-app.apk           # (Optional) Objection‑patched APK
+├── sample_capture.har        # Example export from mitmweb
+└── data/
+    ├── companies.csv         # Exported CSV data
+    └── data.json            # Raw JSON export
 ````
 
 ---
 
-## ✅ Step-by-Step Guide
+## ✅ Step‑by‑Step Guide
 
-### Step 1: Install mitmproxy
-
-Install on your desktop or laptop:
+### 1. Install mitmproxy
 
 ```bash
-# macOS
+# macOS (Homebrew)
 brew install mitmproxy
 
 # Ubuntu/Debian
 sudo apt update && sudo apt install mitmproxy
 
 # Windows
-Download installer from https://mitmproxy.org/
+Download and install from https://mitmproxy.org/
 ```
 
----
-
-### Step 2: Configure mitmproxy
-
-Start mitmproxy in terminal:
+### 2. Configure mitmproxy
 
 ```bash
-mitmproxy
+mitmproxy \
+  --set ssl_insecure=true \
+  --set tls_version_client_min=SSL3 \
+  --set tls_version_server_min=SSL3
 ```
 
-By default, this runs a proxy at `localhost:8080`.
+* `ssl_insecure=true` disables upstream certificate validation.
+* `tls_version_*_min=SSL3` allows TLS1.0–TLS1.3.
 
 ---
 
-### Step 3: Configure Your Mobile Device
+### 3. Android Emulator Setup & Pinning Bypass
 
-#### 🔗 Set Proxy:
+#### A. Create & Configure Android AVD
 
-* Connect your mobile device to the **same Wi-Fi network**
-* Navigate to:
-  `Settings > Wi-Fi > [Your Network] > Proxy > Manual`
-* Set proxy:
+1. **Install Android Studio** and open AVD Manager.
+2. **Create** a new emulator (e.g., Pixel 4, Android 11).
+3. **Launch** the emulator and connect it to the same Wi‑Fi network.
 
-  * **Host**: Your computer’s local IP (e.g., `192.168.1.10`)
-  * **Port**: `8080`
+#### B. Proxy the Emulator
 
-#### 🔐 Trust the mitmproxy Certificate:
+1. In emulator: **Settings > Network & Internet > Wi‑Fi**
+2. Tap your network, **Modify** → **Advanced options** → **Proxy** → **Manual**
 
-1. On your phone, open the browser and go to:
+   * **Proxy hostname**: your host PC’s IP (e.g., `10.10.10.223`)
+   * **Proxy port**: `8080`
 
-   ```
-   http://mitm.it
-   ```
-2. Download and install the certificate for your OS
-3. Trust it manually:
-
-   * **Android**:
-     `Settings > Security > Encryption & Credentials > Install CA Certificate`
-   * **iOS**:
-     `Settings > General > About > Certificate Trust Settings > Enable Full Trust`
-
----
-
-### Step 4: Open the Investment App
-
-* Launch the mobile investment app (e.g., Robinhood, eToro, Fintel, etc.)
-* mitmproxy will display real-time requests from the app
-
----
-
-### Step 5: Identify Useful API Requests
-
-Look for:
-
-* URLs like `/api/stocks`, `/companies/`, `/search`
-* Response types: `application/json`
-* Headers such as `Authorization`, `User-Agent`, `Cookie`
-
-Use mitmproxy filters:
+#### C. Install mitmproxy CA into Emulator
 
 ```bash
-~u api          # URLs containing 'api'
-~m GET          # Only GET requests
-~s 200          # Status 200 OK
+adb root
+adb remount
+adb push ~/.mitmproxy/mitmproxy-ca-cert.cer /sdcard/
+```
+
+On the emulator:
+
+* **Settings > Security > Install from SD card** → select `mitmproxy-ca-cert.cer`
+* Trust it under **Wi‑Fi / VPN & apps**.
+
+#### D. Bypass Certificate Pinning
+
+##### Option 1: Objection (No Root Required)
+
+```bash
+objection patchapk --source path/to/YourApp.apk \
+  --preserve-signature --remove-definitions android.ssl_pinning
+adb install -r patched-app.apk
+```
+
+##### Option 2: Frida (Live Hooking)
+
+Create `unpin.js`:
+
+```js
+Java.perform(function() {
+  var TrustManager = Java.use('javax.net.ssl.X509TrustManager');
+  var SSLContext = Java.use('javax.net.ssl.SSLContext');
+
+  var TrustAll = Java.registerClass({
+    name: 'com.proxy.TrustAll',
+    implements: [ TrustManager ],
+    methods: {
+      checkClientTrusted: function(chain, authType) {},
+      checkServerTrusted: function(chain, authType) {},
+      getAcceptedIssuers: function(){ return []; }
+    }
+  });
+
+  SSLContext.init.overload(
+    '[Ljavax.net.ssl.KeyManager;',
+    '[Ljavax.net.ssl.TrustManager;',
+    'java.security.SecureRandom'
+  ).implementation = function(km, tm, sr) {
+    return this.init(km, [TrustAll.$new()], sr);
+  };
+});
+```
+
+Run:
+
+```bash
+frida -U -f com.your.app.package -l unpin.js --no-pause
 ```
 
 ---
 
-### Step 6: Reconstruct API Request in Python
+### 4. Capture & Inspect Traffic
 
-Example script:
+1. **Run mitmproxy** (or use `mitmweb --web-open-browser` at `http://localhost:8081`).
+2. **Launch** the patched or hooked app in emulator.
+3. **Filter** flows by keywords in mitmweb, e.g.:
+
+   ```
+   ~u invest
+   ~u portfolio
+   ~u companies
+   ```
+4. **Select** a representative `200` JSON flow and **Export** as cURL or HAR.
+
+---
+
+### 5. Build & Run `extract.py`
+
+Below is a skeleton; customize with your captured details:
 
 ```python
-import requests
+import requests, time, json
 import pandas as pd
 
-headers = {
-    "Authorization": "Bearer YOUR_EXTRACTED_TOKEN",
-    "User-Agent": "AppName/1.0.0 (Android 11)",
-    # Additional headers may be required
+BASE_URL = 'https://api.appname.com/v1/companies'
+HEADERS = {
+    'Authorization': 'Bearer YOUR_TOKEN',
+    'User-Agent': 'AppName/1.0 (Android 11)'
 }
 
-url = "https://api.appname.com/v1/companies?page=1"
-
-response = requests.get(url, headers=headers)
-data = response.json()
-
-# Export to CSV
-pd.DataFrame(data['results']).to_csv("data/companies.csv", index=False)
-```
-
----
-
-### Step 7: Automate API Pagination
-
-```python
-all_data = []
-
-for page in range(1, 20):
-    url = f"https://api.appname.com/v1/companies?page={page}"
-    r = requests.get(url, headers=headers)
+all_items, page = [], 1
+while True:
+    params = {'page': page, 'limit': 50}
+    r = requests.get(BASE_URL, headers=HEADERS, params=params)
     if r.status_code != 200:
         break
-    all_data.extend(r.json().get('results', []))
+    items = r.json().get('results', [])
+    if not items:
+        break
+    all_items.extend(items)
+    print(f'Page {page}: {len(items)} items')
+    page += 1
+    time.sleep(0.5)
 
-pd.DataFrame(all_data).to_csv("data/companies.csv", index=False)
+with open('data.json', 'w') as f:
+    json.dump(all_items, f, indent=2)
+pd.DataFrame(all_items).to_csv('data/companies.csv', index=False)
+print(f'Exported {len(all_items)} records')
 ```
 
----
+#### Run:
 
-## 🧠 Advanced: Bypassing SSL Pinning
-
-Some apps implement **SSL pinning**, which blocks proxy certificates.
-
-To bypass:
-
-1. Use **rooted Android emulator** or **Frida**
-2. Run:
-
-   ```bash
-   frida -U -n com.app.name -l bypass-ssl.js
-   ```
-3. Or patch the app via APK static modification
-
-> Contact me for sample `Frida` scripts or Magisk modules if needed.
-
----
-
-## 📁 Sample Output
-
-| company\_name | ticker | sector     | rating | market\_cap |
-| ------------- | ------ | ---------- | ------ | ----------- |
-| Apple Inc.    | AAPL   | Technology | Buy    | 3.1T        |
-| Tesla Inc.    | TSLA   | Auto       | Hold   | 900B        |
+```bash
+pip install requests pandas
+python extract.py
+```
 
 ---
 
 ## 📌 Best Practices
 
-* Mimic exact headers (User-Agent, Auth, Accept-Language)
-* Rotate IPs/user-agents if scraping at scale
-* Sleep between requests to avoid rate limiting
-* Never hardcode tokens in public code
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-See [LICENSE](./LICENSE) for details.
+* **Respect rate limits**: add delays, monitor status codes.
+* **Rotate tokens/IPs** if scraping at scale.
+* **Secure credentials**: don’t commit tokens to public repos.
+* **Document endpoints**: keep request/response examples for future reference.
