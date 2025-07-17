@@ -4,7 +4,6 @@ This document is structured for clarity, reproducibility, and professionalism �
 
 ---
 
-````markdown
 # 📱📊 Mobile Investment App Data Extraction via Traffic Interception
 
 This project demonstrates a complete pipeline to extract financial and company data from a mobile investment application by intercepting mobile network traffic using `mitmproxy`. It is designed for experienced data analysts and scraping professionals who need access to structured data when no public API or web interface is available.
