@@ -1,0 +1,26 @@
+URL: https://yandex.ru/messenger/api/unread_count?client=yango&chat_id
+
+Request headers:
+x-application-id: ios_yango
+x-uuid: F4A62021-66A5-4F19-8312-7DA45D750EFA
+accept: */*
+x-session-id: 93FE5F92-0A4E-4944-8FC2-C8635F95349B
+authorization: OAuth y0_AgAAAABqqvTIAAU0HAAAAAEAfbHYAACaHj3H-T9BcIfvPHyweJCbwhx-oQ
+priority: u=3
+x-version: 5
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+accept-encoding: gzip, deflate, br
+user-agent: iOS ChatKit Web in 501282
+cookie: _yasc=B9Ol6SKrsfQYhRcY1S5oF5jWmvPEocdTG/xWQcol/v/itDxq6+0i4hnF/Gy+LNdB, bh=YOHnqsUGag3OgparDJr815cDktUD, i=f7WtGISS9RDIzgSojnrwVg9k/fMrlYHWeSMRdbJRABbC2/xdLFyyxp9vegZl1Izql+b1Cnr+ajHo5TfDDXrxooPXFgg=, is_gdpr=0, is_gdpr_b=COnCMBC50wI=, yandexuid=4597531131756017633, yashr=5499888101756017633
+
+Response headers:
+content-length: 11
+nel: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+accept-ch: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Sec-CH-Viewport-Width, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT, Width, Sec-Ch-Viewport-Height
+content-type: application/json
+x-content-type-options: nosniff
+set-cookie: _yasc=fOToAx9KNMxp+e0Rm5AQ7j+XBGesy4gwWThdoEhCEOrlJgnYqKCsUO7SlNE5LVzd; domain=.yandex.ru; path=/; expires=Wed, 22 Aug 2035 13:31:43 GMT; secure, bh=YL+orMUGag3OgparDJr815cDktUD; Path=/; Domain=.yandex.ru; Expires=Mon, 28 Sep 2026 13:31:43 GMT
+x-xss-protection: 1; mode=block
+date: Sun, 24 Aug 2025 13:31:43 GMT
+report-to: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+x-yandex-req-id: 1756042303379946-13585205875374944712-balancer-l7leveler-kubr-yp-sas-38-BAL

@@ -1,0 +1,30 @@
+URL: https://tc.taxi.yango.com/3.0/pushack?mobcf=yango%25yango_not_eu_by_geo_0%25yango_forced_ac&mobpr=yango_not_eu_by_geo_0_TAXI_0
+
+Request headers:
+x-yataxi-last-zone-names: accra,baku
+x-appmetrica-uuid: 3c96f764df264d889a091811a2faab62
+content-type: application/json
+authorization: Bearer y0_AgAAAABqqvTIAAU0HAAAAAEAfbHYAACaHj3H-T9BcIfvPHyweJCbwhx-oQ
+x-appmetrica-deviceid: 8900ED93-8B34-4E21-944D-0E316EDFEEEA
+accept: */*
+x-yataxi-ongoing-orders-statuses: none
+priority: u=3
+accept-language: en;q=1, en-AZ;q=0.9, ru-AZ;q=0.8, tr-AZ;q=0.7, az-AZ;q=0.6
+accept-encoding: gzip, deflate, br
+x-mob-id: 9dd0624ea7e54b538e4364359ec729fc
+x-yataxi-has-ongoing-orders: false
+user-agent: ru.yandex.yango/7.00.501282 (iPhone; iPhone16,1; iOS 26.0; Darwin)
+content-length: 199
+x-yataxi-userid: a381298c32e64c00baff8127dbad7210
+
+Response headers:
+content-length: 2
+x-yarequestid: 222a39a0aedaa06e47abf519c9954d73
+accept-encoding: gzip, zstd, identity
+set-cookie: _yasc=0vRKlMFrMoxqcoyfv4V2AuRtxXWcPlDRW60j6qgmsPNwGT26HsOD9wG+/+0kaRH0YQ==; Domain=.yandex.net; Path=/; Expires=Wed, 22 Aug 2035 13:31:42 GMT; Secure, _yasc=HqF5MYbmbQUd48PjDpz62Dxw54kd2a5wVtBHLvO/E8OQsKbyyoVDzydqBUbZCmOX2w==; domain=.yango.com; path=/; expires=Wed, 22 Aug 2035 13:31:42 GMT; secure, i=5x+iPPtVaZCcVfwk3MoysVVeTFi6JacA7LxgnLDEzg/3nBaH3b6wzhtherNu2hRwVFcx2Zy3SdHoWnDH5/7roObDHa4=; Expires=Tue, 24-Aug-2027 13:31:42 GMT; Domain=.yango.com; Path=/; Secure; HttpOnly, yandexuid=2365370081756042302; Expires=Tue, 24-Aug-2027 13:31:42 GMT; Domain=.yango.com; Path=/; Secure, yashr=7221723501756042302; Path=/; Domain=.yango.com; Expires=Mon, 24 Aug 2026 13:31:42 GMT; Secure; HttpOnly
+traceparent: 00-3b1b99b9857a59a3065b11ebaca4b904-123dc84eddab0699-01
+x-yatraceid: 3b1b99b9857a59a3065b11ebaca4b904
+x-yaspanid: 123dc84eddab0699
+content-type: application/json
+date: Sun, 24 Aug 2025 13:31:42 GMT
+x-ya-orig-host: taxi_passenger_authorizer_local

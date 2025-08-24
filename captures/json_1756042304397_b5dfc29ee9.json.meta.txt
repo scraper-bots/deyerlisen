@@ -1,0 +1,18 @@
+URL: https://report.appmetrica.yango.com/report?device_type=phone&app_build_number=501282&analytics_sdk_version_name=5.11.2&screen_height=852&is_rooted=0&app_debuggable=0&os_api_level=26&encrypted_request=1&app_platform=iOS&uuid=3c96f764df264d889a091811a2faab62&request_id=4067&api_key_128=8c419dac-df28-4415-9179-b260d19bc3fe&analytics_sdk_build_type=source&app_id=ru.yandex.yango&locale=en_AZ&attribution_id=1&app_version_name=700.104.2&manufacturer=Apple&screen_width=393&ifv=8900ED93-8B34-4E21-944D-0E316EDFEEEA&analytics_sdk_build_number=0&deviceid=8900ED93-8B34-4E21-944D-0E316EDFEEEA&model=iPhone16,1&os_version=26.0&screen_dpi=326&app_framework=flutter&scalefactor=3.00&mai=ru.yandex.yango
+
+Request headers:
+Host: report.appmetrica.yango.com
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Cookie: _yasc=hEqtyKrvwLHxyvZ3+qPlP5n2ZaMOxRUwF5YSzequrAEBB6HVCiPIatvb1ADdaa7Q; yashr=2600665811754746250; bh=YJaTocEGaibcyv3sCqnSo90C+ta2gwLr/52rBPrWoqUPhuTx5w3r//32D46iAQ==; i=JNDpIQKm1oyg7escK3c+Ti7xD2aSxLs2dr7niZbEG+08N7c/w+HtyNjjRpebEqaUFKrsQvX+KI61SOj+TYqGzDVPRxo=; yandexuid=7747262401732791691
+Connection: keep-alive
+Send-Timestamp: 1756042303
+Send-Timezone: 14400
+User-Agent: io.appmetrica.analytics/5.11.2.0 (Apple iPhone16,1; iOS 26.0)
+Content-Length: 864
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Accept-Encoding: gzip, deflate, br
+
+Response headers:
+Content-Type: application/json; encoding=utf-8
+Content-Length: 21

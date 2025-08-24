@@ -1,0 +1,1 @@
+{"policy":{"timerOrSpacing":[{"expression":"timerOrSpacing","containerType":["interstitial"]}]},"expressions":[{"identifier":"timerOrSpacing","expression":["OR","spacingPolicy","timerPolicy"],"data":{"spacingPolicy":{"adaptor":"com.apple.ap.policy.spacing"},"timerPolicy":{"adaptor":"com.apple.ap.policy.timer"}}}]}

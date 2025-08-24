@@ -1,0 +1,21 @@
+URL: https://serverstatus.apple.com/services/internetaccess/v1/my_external_ip
+
+Request headers:
+Host: serverstatus.apple.com
+Accept: */*
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Connection: keep-alive
+Accept-Encoding: gzip, deflate, br
+User-Agent: Settings/1353.0.1 CFNetwork/3860.100.1 Darwin/25.0.0
+
+Response headers:
+Server: Apple
+Date: Sun, 24 Aug 2025 14:47:32 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-FRAME-OPTIONS: DENY, SAMEORIGIN
+Host: serverstatus.apple.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block

@@ -1,0 +1,32 @@
+URL: https://graph.whatsapp.com/graphql
+
+Request headers:
+accept: */*
+content-type: application/json
+upload-draft-interop-version: 6
+accept-encoding: gzip, deflate, br
+user-agent: WhatsApp/773636189 CFNetwork/3860.100.1 Darwin/25.0.0
+upload-complete: ?1
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+priority: u=3
+content-length: 766
+
+Response headers:
+content-encoding: br
+content-type: application/json; charset=UTF-8
+whatsapp-api-version: v1.0
+access-control-expose-headers: X-FB-Debug, X-Loader-Length, X-Stack, Error-MID
+access-control-allow-methods: OPTIONS
+access-control-allow-credentials: true
+access-control-allow-origin: https://facebook.com
+vary: Origin, Accept-Encoding
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-fb-request-id: AvoRWe5qyOTdVXsjJMMWLBw
+x-fb-trace-id: DquLrTBePog
+x-fb-rev: 1026266956
+x-fb-debug: hhWKUdfI5GUfqs5CutUwJ7WXU9t2pu0rVJeCjtXcpKFKiZRAlElW5ksWyeVu4LKQ/HcIjkrmtIbZd6vBTdqz6w==
+content-length: 21077
+date: Sun, 24 Aug 2025 13:44:26 GMT

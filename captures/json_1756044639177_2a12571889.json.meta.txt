@@ -1,0 +1,34 @@
+URL: https://partiality.itunes.apple.com/WebObjects/MZPartiality.woa/wa/IAD/segment
+
+Request headers:
+x-apple-tz: 14400
+cookie: X-Dsid=20075166077, xp_ab=1#fNPb5Km+-2+xSb5Dsb55#WTckLqP+-2+X7_0IkP00#tBc9hUt+-2+ZRowdCM02#Zh4zkDd+-2+y6_pX5V00#938KWHe+-2+3tlsz8f02#QVJEGsa+-2+ulL46Uv01, wosid-lite=bODu4U4GdqETAsxGSiPjbg, countryVerified=1, pldfltcid=a965220e42bd491c8642d0a95836ef6a041, fspc=AAAAAAAAAAHCRBRevRIt2heB8QI0dJJeqxm3T6SMSx8E8bMfrP2lu0xV9hWIXAfsKN/iRpKqsGvAoXNA+ow4T8qOLdHUGjJB+vioCDvOFvYTvsv6m/E2NA==, mz_at_ssl-20075166077=BgUAAAEBNgAD96AAAAAAaKhajGFjeHz4c5ayNnNcxyush6HZLCc/, vrep=CP3yyuRKEgQIAhAAEgQIDhAAEgQIERAAEgQIEhAAEgUIEBCSFRIJCAsQ2K2SnvcyEgQIARAAEgQIBRAAEgQICRAAEgUIBhCsBBIECAQQABIECBMQABIECAwQABIECA8QABIECAMQABIECAgQABIECAoQABIECA0QABIECAcQAA, fstv=AAAAAAAAAAEUQvZ/4nZivi+nP4Snv7PujE9aNsekkoX+40nvT4s2VDAklXLg3Z/lnloYY00eydWf5FBNlAVXUHmnrSzCerSY90Kj2dNeDTWQooa9ffHfQA==, xt-b-ts-20075166077=1755431275251, fsnw=AAAAAAAAAAHE3C5sXG88AWxd32eNXCoRFiT9YHtqp9vur6nOXk7NrTb6J2QZNbhYVXyDafNVsikWZgyiDt8u7VzqkJnUqmFNLloNwlyhNJgSSZmKTPUEwA==, mz_at0-20075166077=BgQAAAEBNgAD96AAAAAAaKHBa5cpf/9YCt1PMBNrJJzKeVQqL1z5, hsaccnt=1, fsas=AAAAAAAAAAGm/+QMrPXfO/PguKqp/yvitjulFfzMXPj//Jy3hYWnguRjn9W3hPA7rwy8N4grSFdkO6ZNHjT0xyriIPBOSmpNEM9pxj+3JajDeKjVwXEVXQ==, mzf_in=417004, mt-tkn-20075166077=ApsQp2OlpmemHVZIGGefDaIUeKzHI1MfNXpexWGhLD3AC8W46IdTKlIEliGi3TWaI5UwtwvMaK0rias8L6cSU/bU5Hgh1IwKasWsqGXig0J3SiigkMKHZCwi71ss8Il4qC0qNxy/LhKpsvSKkqTO2L4LQm4zjQKAf1gUK3QbX6Ns/Xb47sYnKXkVhvdl5fZ3HNUbG6QEipeaqCSxbQQu9BKQzQza, amp=VPB3rK3odg+WRhixXHy1cZb3u+hJF3HhT32JW/KSj21lrvXpbn7JdsZ9JU+zcQINpv46+cAcL8PlurVcaQRDKjUhRSMJFGXNSnaZ1g8R5Cc=, tv-pldfltcid=a965220e42bd491c8642d0a95836ef6a041, mt-tid-20075166077=ApsQp2OlpmemHVZIGGefDaIUeKzHI1MfNXpexWGhLD3AC8W46IdTKlIEliGi3TWaI5UwtwvMaK0rias8L6cSU/bU5Hgh1IwKasWsqGXig0J3SiigkMKHZCwi71ss8Il4qC0qNxy/LhKpsvSKkqTO2L4OHQ2jz32pc78DTh6eKyuKoao3N88fiWyGUGjvTUZ1yKc7Y/lHcgKKCpggMGhugE+s5oMRdasuz54hgamSh2yWCGCOWPoMI/Z6bEG6tZtUjGs6HIc=, xt-i-ts-20075166077=1742753198674, ampsc=/lkb6sWkcJMPyL8hQzipwV82Gmwv2Q0D/eXi2ed9rNYEVuSdEsDzOFvWYOs03S85TVyk67krIdtnYWsAYwo+5g==, itspod=41
+icloud-dsid: 20075166077
+user-agent: com.apple.ap.adprivacyd/1.0 iOS/26.0 model/iPhone16,1 hwp/t8130 build/23A5318f (6; dt:310) AMS/1
+x-apple-store-front: 143568-2,29
+x-dsid: 20075166077
+x-apple-client-application: com.apple.ap.adprivacyd
+priority: u=3, i
+content-length: 63
+x-apple-i-timezone: GMT+4
+x-apple-i-client-time: 2025-08-24T14:10:37Z
+accept-language: en
+x-apple-i-md-rinfo: 50660608
+x-apple-adsid: 000672-08-2ad834c2-6d9a-4105-b42f-d8f06702b01b
+accept: */*
+content-type: application/json; charset=utf-8
+accept-encoding: br, gzip, deflate
+x-apple-i-md-m: meSSmIH6THcDaQACzK5lux5TEXUP0xZBgB2PWIMfwqVGgLuCgYl3irxxy4VnMnDEDxHYf1ipfljI0jIm
+x-apple-i-locale: en_AZ
+x-apple-i-md: AAAABQAAABAnZ7MON0sWvSJ++ZqOOEfCgAAAAw==
+
+Response headers:
+server: daiquiri/5
+content-type: application/json
+x-apple-jingle-correlation-key: 2EB3EHOGLQ5CCS6BGMJOYY6WUA
+strict-transport-security: max-age=31536000; includeSubDomains
+x-daiquiri-instance: daiquiri:46264004:st53p00it-qujn15050101:7987:25RELEASE91:daiquiri-amp-all-l7shared-ext-001-st
+vary: Accept-Encoding
+content-encoding: gzip
+date: Sun, 24 Aug 2025 14:10:38 GMT
+content-length: 536

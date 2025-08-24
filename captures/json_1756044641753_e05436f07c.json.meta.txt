@@ -1,0 +1,30 @@
+URL: https://iadsdk.apple.com/adserver/2/policy/display
+
+Request headers:
+Host: iadsdk.apple.com
+Accept: */*
+osBuild: 23A5318f
+timestamp: 2025-08-24T14:10:40Z
+osPlatform: iOS
+bundleId: com.apple.ap.promotedcontentd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Accept-Encoding: gzip, deflate, br
+storefront: 143568-2,29
+User-Agent: iPhone16,1; iOS 26.0.0-23A5318f; com.apple.ap.promotedcontentd; 143568-2,29
+Connection: keep-alive
+device: iPhone16,1
+osVersion: 26.0.0
+
+Response headers:
+Server: Apple
+Content-Type: application/json
+Content-Length: 315
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+policyVersion: V2
+Date: Sun, 24 Aug 2025 14:10:41 GMT
+X-Cache: TCP_MISS from a2-21-240-170.deploy.akamaitechnologies.com (AkamaiGHost/22.2.3-889b1cd919645cc1f89ca3d96ade65e0) (-)
+Connection: keep-alive
+X-Cache-Remote: TCP_MISS from a23-48-100-149.deploy.akamaitechnologies.com (AkamaiGHost/22.2.2-1df3f50fb263534fbc9222a3273eb851) (-)

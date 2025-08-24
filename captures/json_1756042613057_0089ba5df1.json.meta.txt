@@ -1,0 +1,34 @@
+URL: https://api.messenger.yandex.net/api/
+
+Request headers:
+Host: api.messenger.yandex.net
+X-App-Device-Locale: en_AZ
+X-App-Id: ru.yandex.yango
+X-App-Device-Manufacturer: Apple
+X-Session-Id: 58BE9DD8-91EA-4877-8B64-83F9FA2244A5
+X-App-Platform-Version: 26.0
+User-Agent: iOS YandexChatKit in Yango 501282
+X-App-Device-Model: iPhone16,1
+X-Request-Attempt: 0
+X-Device-Id: 8900ED93-8B34-4E21-944D-0E316EDFEEEA
+X-Version: 5
+X-Application-Id: ios_yango
+Content-Length: 62
+X-App-Version: 700.104.2.501282
+Connection: keep-alive
+Authorization: OAuth y0_AgAAAABqqvTIAAU0HAAAAAEAfbHYAACaHj3H-T9BcIfvPHyweJCbwhx-oQ
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+X-Request-Id: BB296C48-5E6B-4C22-B9EF-4F45102AD48C
+X-Uuid: 3c96f764df264d889a091811a2faab62
+Accept: */*
+Content-Type: application/json
+Accept-Encoding: gzip, deflate, br
+X-App-Platform: ios
+
+Response headers:
+X-XSS-Protection: 1; mode=block
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+Content-Length: 289
+Strict-Transport-Security: max-age=31536000
+Content-Type: application/json; charset=utf-8
