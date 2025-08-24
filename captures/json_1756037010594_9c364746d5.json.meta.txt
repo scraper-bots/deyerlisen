@@ -1,0 +1,31 @@
+URL: https://ep2.facebook.com/v17.0/1424108711866722/model_asset?access_token=1424108711866722%7C5c891ae01a530917cd5c6bea10c96049&format=json&include_headers=false&sdk=ios
+
+Request headers:
+accept: */*
+content-type: application/json
+user-agent: FBiOSSDK.18.0.0
+priority: u=3
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+accept-encoding: gzip, deflate, br
+
+Response headers:
+etag: "1050253aec7b29caff644806927dabfa81406eee"
+content-type: application/json; charset=UTF-8
+vary: Origin
+x-ad-api-version-warning: The call has been auto-upgraded to v18.0 as v17.0 has been deprecated.
+cross-origin-resource-policy: cross-origin
+x-app-usage: {"call_count":0,"total_cputime":0,"total_time":0}
+access-control-allow-origin: *
+facebook-api-version: v18.0
+strict-transport-security: max-age=15552000; preload
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-fb-request-id: AnSkSX7X_kYHkyHQmZjHPPs
+x-fb-trace-id: BiRMRHbhspn
+x-fb-rev: 1026266148
+x-fb-debug: VPGQ2UQVW2prlpE5HQTvKDluYCzsv2Yw6YoDockhoQh6jsx0GD2ooVvGfdEKpQPO2FtYXRJaQ0HIV5FEGTTxyQ==
+content-length: 11
+date: Sun, 24 Aug 2025 12:03:30 GMT
+x-fb-connection-quality: GOOD; q=0.7, rtt=54, rtx=0, c=10, mss=1380, tbw=3580, tp=-1, tpl=-1, uplat=134, ullat=0
+alt-svc: h3=":443"; ma=86400

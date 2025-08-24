@@ -1,0 +1,30 @@
+URL: https://ep2.facebook.com/v17.0/1424108711866722?fields=app_events_feature_bitmask%2Cname%2Cdefault_share_mode%2Cios_dialog_configs%2Cios_sdk_dialog_flows.os_version%2826.0.0%29%2Cios_sdk_error_categories%2Csupports_implicit_sdk_logging%2Cgdpv4_nux_enabled%2Cgdpv4_nux_content%2Capp_events_session_timeout%2Clogging_token%2Crestrictive_data_filter_params%2Caam_rules%2Csuggested_events_setting%2Cprotected_mode_rules%2Cauto_log_app_events_default%2Cauto_log_app_events_enabled%2Cauto_event_mapping_ios&format=json&include_headers=false&os_version=26.0.0&sdk=ios
+
+Request headers:
+accept: */*
+content-type: application/json
+user-agent: FBiOSSDK.18.0.0
+priority: u=3
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+accept-encoding: gzip, deflate, br
+
+Response headers:
+content-encoding: br
+etag: "77d2c50dd4579d152707701f08f2cbaa1406e407"
+content-type: application/json; charset=UTF-8
+vary: Origin, Accept-Encoding
+x-ad-api-version-warning: You are calling a deprecated version of the Ads API.
+access-control-allow-origin: *
+facebook-api-version: v17.0
+strict-transport-security: max-age=15552000; preload
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-fb-request-id: ACHyxX9GJN77-r2Lagclvbb
+x-fb-trace-id: H0WjP9ZtEb6
+x-fb-rev: 1026266148
+x-fb-debug: WeUG5F9XbHRHtaPwC4A4OZwaCTMQMY/NnLP/MNOCd3ZZlW6u5tzjO6m3DeCAmJA09Lwx3RY1ZUtE1eOrH7Ns2Q==
+content-length: 676
+date: Sun, 24 Aug 2025 12:03:29 GMT
+x-fb-connection-quality: GOOD; q=0.7, rtt=59, rtx=0, c=10, mss=1380, tbw=3603, tp=-1, tpl=-1, uplat=264, ullat=0
+alt-svc: h3=":443"; ma=86400

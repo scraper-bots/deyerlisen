@@ -1,0 +1,34 @@
+{
+  "extracted_coordinates": [
+    {
+      "lat": 26.057715,
+      "lon": 0.000669,
+      "source": "Google location service data",
+      "confidence": "medium",
+      "notes": "Latitude suggests Azerbaijan region"
+    },
+    {
+      "lat": 0.000678,
+      "lon": 26.057715, 
+      "source": "Google location service data",
+      "confidence": "medium",
+      "notes": "May be swapped lat/lon"
+    }
+  ],
+  "place_types_found": [
+    "historic_pinlet",
+    "movie_pinlet", 
+    "event_venue_pinlet",
+    "golf_pinlet"
+  ],
+  "extraction_summary": {
+    "total_files_analyzed": 4,
+    "sport_related_strings": 43,
+    "coordinate_pairs": 9,
+    "source": "mitmproxy capture of iOS app network traffic",
+    "data_sources": [
+      "Google Maps vector tiles (/maps/vt/proto)",
+      "Google location services (/glm/mmap)"
+    ]
+  }
+}

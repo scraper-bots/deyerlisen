@@ -1,0 +1,25 @@
+URL: https://o4509122040299520.ingest.de.sentry.io/api/4509122043510864/envelope/
+
+Request headers:
+accept: */*
+content-type: application/x-sentry-envelope
+x-sentry-auth: Sentry sentry_version=7,sentry_client=sentry.cocoa.flutter/8.46.0,sentry_key=17cb7573b9584c91679f42969d94cab1
+content-length: 430
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+content-encoding: gzip
+user-agent: sentry.cocoa.flutter/8.46.0
+priority: u=3
+accept-encoding: gzip, deflate, br
+
+Response headers:
+server: nginx
+date: Sun, 24 Aug 2025 12:03:31 GMT
+content-type: application/json
+content-length: 2
+vary: origin, access-control-request-method, access-control-request-headers
+access-control-allow-origin: *
+access-control-expose-headers: x-sentry-error,x-sentry-rate-limits,retry-after
+cross-origin-resource-policy: cross-origin
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+via: 1.1 google
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

@@ -1,0 +1,38 @@
+URL: https://api.onesignal.com/apps/8702e3cb-f26f-4f3b-b1f7-f0ebd5004fea/ios_params.js
+
+Request headers:
+accept: application/vnd.onesignal.v1+json
+content-type: application/json
+sdk-wrapper: onesignal/flutter/050300
+sdk-version: onesignal/ios/050210
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+priority: u=3
+user-agent: push30_user/7245 CFNetwork/3860.100.1 Darwin/25.0.0
+accept-encoding: gzip, deflate, br
+
+Response headers:
+date: Sun, 24 Aug 2025 12:03:28 GMT
+content-type: application/json; charset=utf-8
+content-encoding: br
+vary: Origin, Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+access-control-allow-origin: *
+access-control-allow-headers: SDK-Version
+cache-control: public, max-age=3600
+etag: W/"060cd0051f794fa455508a924aad81fc"
+x-request-id: 935b44e5-d182-440e-bc81-a9af695902e4
+x-runtime: 0.014380
+via: 1.1 google
+alt-svc: h3=":443"; ma=86400
+cf-cache-status: HIT
+age: 1266
+expires: Sun, 24 Aug 2025 13:03:28 GMT
+set-cookie: __cf_bm=IlrJLhFifaO0oUmL2EhbIfM49DKAIFPDFaYPaLnkuiI-1756037008-1.0.1.1-5GXWcfd0CNqvU7g7uvo832WnV384Jo_O1KckGRIZiknBLinfStFioDAADLMHuAPmTwLrmhY5HHlfl1WC0sgtHKpREFaBhtjHpUB81xtl31g; path=/; expires=Sun, 24-Aug-25 12:33:28 GMT; domain=.onesignal.com; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=15552000; includeSubDomains
+server: cloudflare
+cf-ray: 9742b4e8b9cb7452-GYD

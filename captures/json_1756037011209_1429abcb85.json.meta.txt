@@ -1,0 +1,32 @@
+URL: https://ep2.facebook.com/v17.0/1424108711866722/activities
+
+Request headers:
+accept: */*
+content-type: application/json
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+accept-encoding: gzip, deflate, br
+content-encoding: gzip
+user-agent: FBiOSSDK.18.0.0
+priority: u=3
+content-length: 678
+
+Response headers:
+content-type: application/json; charset=UTF-8
+vary: Origin
+x-ad-api-version-warning: The call has been auto-upgraded to v18.0 as v17.0 has been deprecated.
+cross-origin-resource-policy: cross-origin
+x-app-usage: {"call_count":0,"total_cputime":0,"total_time":0}
+access-control-allow-origin: *
+facebook-api-version: v18.0
+strict-transport-security: max-age=15552000; preload
+pragma: no-cache
+cache-control: private, no-cache, no-store, must-revalidate
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-fb-request-id: AFsUn0a0A3lGc_kitaX5AHP
+x-fb-trace-id: FZ4tz4IqApO
+x-fb-rev: 1026266661
+x-fb-debug: PQmMpnGuz4OQHHAbaprpOoL207pleHR9zGUQpMaRXWBQ+q5VyUtE+1dyUM5HdnNeBtPnyhp3x2d4QQB8KEycQg==
+content-length: 16
+date: Sun, 24 Aug 2025 12:03:31 GMT
+x-fb-connection-quality: GOOD; q=0.7, rtt=51, rtx=0, c=10, mss=1380, tbw=3603, tp=-1, tpl=-1, uplat=613, ullat=0
+alt-svc: h3=":443"; ma=86400
