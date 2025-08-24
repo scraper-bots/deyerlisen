@@ -20,7 +20,7 @@ This project captures and analyzes business data from the DeyerliSen loyalty pro
 ## 📈 Data Analysis & Visualizations
 
 ### Overview Dashboard
-![DeyerliSen Business Analysis Charts](deyerlisen_analysis_charts.png)
+![DeyerliSen Business Analysis Charts](charts/deyerlisen_analysis_charts.png)
 
 ### Individual Chart Analysis
 
