@@ -1,0 +1,21 @@
+URL: https://employeeapi.deyerlisen.az/campaign?id=15&skip=10&take=10
+
+Request headers:
+accept: application/json, text/plain, */*
+accept-language: 1
+accept-encoding: gzip, deflate, br
+x-requestid: 39c9a4aa-935d-4558-b9d3-ce3f9e63ad39
+user-agent: DeyerlisenUser/4 CFNetwork/3860.100.1 Darwin/25.0.0
+priority: u=3, i
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJhZmVkMzc4OS0yNTg4LTQ3MjMtYThiNC0yNjc3YWQ2MGI0NDYiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9tb2JpbGVwaG9uZSI6WyI0MDA0NSIsIklzbWF0LlNhbWFkb3ZAa2FwaXRhbGJhbmsuYXoiXSwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsImV4cCI6MTc1NjYwMjAwMCwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDozNTAwLyIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzUwMC8ifQ.ScqP1wWwVozmm-SNA5fE2_lWmCBrB7Nl3uznBxNuDs4
+
+Response headers:
+date: Sun, 24 Aug 2025 12:50:36 GMT
+content-type: application/json; charset=utf-8
+server: cloudflare
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=K26CD%2Bhkvr7%2FD%2F9A2sZ6gOnnHNCa%2Bi1Cap8xP6CyFfhusQPAL2PzLhFSBLyJWc2k8W9fFnNBMpG9b15b6vO3sD6xuPAwwKQlRlD%2FxYcBQJcXGIp77IXj"}]}
+content-encoding: br
+cf-ray: 9742f9f0ded09642-RIX
+alt-svc: h3=":443"; ma=86400
