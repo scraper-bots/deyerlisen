@@ -1,0 +1,32 @@
+URL: https://www.google.com/maps/vt/proto?bpb=CiUKCAgNEO4oGJIYygEYRU9qcnctSUNHZU5oSHMtTmR2Y3VJT2NoEgYIABi_hD0a2wUSBWVuLUFaGgJBWijSAmICCC9iEghEEg4KA3NldBIHUm9hZG1hcGICCBRiFggjEhIKCW11bHRpem9vbRIFZmFsc2ViDwglEgsKCXNtYXJ0bWFwc2KCBQgaEv0ECgZzdHlsZXMS8gRzLmU6Z3xwLmM6IzIxMjEyMSxzLmU6bC5pfHAudjpvbixzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy5lOmwudC5zfHAuYzojMjEyMTIxLHMudDoxfHMuZTpnfHAuYzojNzU3NTc1LHMudDoxN3xzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjIxfHMuZTpsfHAudjpvbixzLnQ6MTl8cy5lOmwudC5mfHAuYzojYmRiZGJkLHMudDoyfHMuZTpsLnR8cC52Om9uLHMudDoyfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDB8cy5lOmd8cC5jOiMxODE4MTgscy50OjQwfHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NDB8cy5lOmwudC5zfHAuYzojMWIxYjFiLHMudDozfHMuZTpnLmZ8cC5jOiMyYzJjMmMscy50OjN8cy5lOmwudC5mfHAuYzojOGE4YThhLHMudDo1MHxzLmU6Z3xwLmM6IzM3MzczNyxzLnQ6NTB8cy5lOmx8cC52Om9mZixzLnQ6NDl8cy5lOmd8cC5jOiMzYzNjM2Mscy50OjQ5fHMuZTpsfHAudjpvZmYscy50Ojc4NXxzLmU6Z3xwLmM6IzRlNGU0ZSxzLnQ6NTF8cC52Om9mZixzLnQ6NTF8cy5lOmx8cC52Om9uLHMudDo1MXxzLmU6bC50LmZ8cC5jOiM2MTYxNjEscy50OjR8cy5lOmwudC5mfHAuYzojNzU3NTc1LHMudDo2fHMuZTpnfHAuYzojMDAwMDAwLHMudDo2fHMuZTpsLnQuZnxwLmM6IzNkM2QzZKABACABMiYIDBACMAA4AYACAbgCAdgCAegCAZADAeADAdAEAeABBsgCAbADAaIBBhgBMAF4AboBJs7FU9HFU7rdqALpjrQW64i4Fu7fuRa_xMYi2ZP4LL30-Cy0lvksKgUtAACAPw
+
+Request headers:
+accept: */*
+accept-encoding: gzip, deflate, br
+sentry-trace: f99a056938214f36b1a615c1e7dd5fd3-d24f9931603b4713-0
+x-client-signature: 56947
+baggage: sentry-environment=production,sentry-public_key=17cb7573b9584c91679f42969d94cab1,sentry-release=az.p30.user%4039.9.9%2B7245,sentry-trace_id=f99a056938214f36b1a615c1e7dd5fd3
+user-agent: az.p30.user/39.9.9 GMS-SDK/8.4.0.0 iPhone/26.0 hw/iPhone16_1 (gzip)
+priority: u=3, i
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+
+Response headers:
+content-type: application/x-octet-stream;charset=x-user-defined
+date: Sun, 24 Aug 2025 11:40:11 GMT
+expires: Sun, 24 Aug 2025 12:27:03 GMT
+cache-control: public, max-age=2812
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+etag: 046d0ab844f2de5dc
+content-security-policy: script-src 'none'; object-src 'none'; base-uri 'none'
+x-content-type-options: nosniff
+x-server-version-bin: CgoIBBDqnZvFBhgB
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/mspthpsdsghrhc:106:0
+cross-origin-opener-policy-report-only: same-origin; report-to=mspthpsdsghrhc:106:0
+report-to: {"group":"mspthpsdsghrhc:106:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/mspthpsdsghrhc:106:0"}],}
+server: scaffolding on HTTPServer2
+content-length: 4377
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+server-timing: gfet4t7; dur=102
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

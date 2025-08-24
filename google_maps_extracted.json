@@ -1,0 +1,4424 @@
+[
+  {
+    "source_file": "captures/vt_1756035585273_0a1d7045c6.pbf",
+    "file_size": 327,
+    "items": [
+      {
+        "coordinate": 6.0693696908044846e-15,
+        "field_number": 30842593,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.6682948644874e-63,
+        "field_number": 13,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4730828010011585e-26,
+        "field_number": 794,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGd8XEegxaotzIJMC",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032834_e0b4798e27.pbf",
+    "file_size": 272,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGdMjmLXZAw8uINwB",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036049998_fdb59aa264.pbf",
+    "file_size": 4360,
+    "items": [
+      {
+        "coordinate": 2.153389914383297e-06,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.8763453518786527e-14,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.576059485319387e-301,
+        "field_number": 1121,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOmDvuMCGc29SuC_yz7bINQh",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032588_9ed597dd40.pbf",
+    "file_size": 4786,
+    "items": [
+      {
+        "coordinate": 1.118256136578566e-06,
+        "field_number": 892,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.331972119565503e-275,
+        "field_number": 1937,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4185924554259947e-20,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.803696587233201e-36,
+        "field_number": 15929145,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.2093431777901545e-28,
+        "field_number": 162676,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.801248536054572e-11,
+        "field_number": 24166801,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.6059851169307244e-263,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.3136028593566691e-27,
+        "field_number": 21314,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.251387649460581e-60,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.1703407415502845e-51,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.468290038949426e-263,
+        "field_number": 27183431,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.379424798476975e-08,
+        "field_number": 217530,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.2073407664979471e-35,
+        "field_number": 111,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.887826525662207e-281,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.840380011892023e-10,
+        "field_number": 28065643,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.249953019984094e-249,
+        "field_number": 494,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.533852024752844e-256,
+        "field_number": 15,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.75761797533783e-184,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGQx8K2P0n8WdIP4k",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034325_26c5c64c96.pbf",
+    "file_size": 13353,
+    "items": [
+      {
+        "coordinate": 1.2058765431166359e-20,
+        "field_number": 194048,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.3132015038243425e-25,
+        "field_number": 13,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.045613268688996e-28,
+        "field_number": 112536,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.94201608186232e-185,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.829240335280873e-272,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4172963391863849e-238,
+        "field_number": 1586,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.197375902386354e-31,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4194055824841573e-129,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.1540422817395268e-243,
+        "field_number": 8,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.8498960790755744e-25,
+        "field_number": 85364,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.7019433766711156e-33,
+        "field_number": 11793971,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.953857388381497e-11,
+        "field_number": 3,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.640092472390841e-34,
+        "field_number": 99,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.421839289151485e-119,
+        "field_number": 448,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.12496737535934e-91,
+        "field_number": 8,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.4459384374276851e-06,
+        "field_number": 921,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.1528414224824035e-173,
+        "field_number": 6,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.4246246814727783,
+        "field_number": 916,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.5049757823580876e-05,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.1657647936411981e-146,
+        "field_number": 1822,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.472427992301871e-120,
+        "field_number": 8,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGaoWnFJx-o-OIPVn",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035908233_2b8b10f185.pbf",
+    "file_size": 1585,
+    "items": [
+      {
+        "coordinate": -1.734390644047647e-281,
+        "field_number": 1507,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.919571049162187e-05,
+        "field_number": 967,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGexztKg_5_dvIP0L",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035999440_c6c1fed36f.pbf",
+    "file_size": 4994,
+    "items": [
+      {
+        "coordinate": 3.1854270105905475e-59,
+        "field_number": 985,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.873247425573258e-31,
+        "field_number": 654,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGY2y-glmPTKLIM4m",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022258_ffd149d4f2.pbf",
+    "file_size": 4116,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGboTQRDagTQSIOAf",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022561_bfbd1aa2ed.pbf",
+    "file_size": 8482,
+    "items": [
+      {
+        "coordinate": 6.243831715093336e-23,
+        "field_number": 1467,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.1434749848382442e-11,
+        "field_number": 1464,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.1178431280257154e-111,
+        "field_number": 63920668683068,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.932757986440391e-207,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.2165096997111788e-30,
+        "field_number": 9,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.9107408978824245e-201,
+        "field_number": 1480,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.337029724516832e-71,
+        "field_number": 114284,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.086141074643019e-123,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.3554726785436344e-10,
+        "field_number": 9,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.004338760791612e-242,
+        "field_number": 12,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.1051242410317806e-28,
+        "field_number": 1787,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.264734130692051e-15,
+        "field_number": 6,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.0834197779212487e-29,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.9950541668092227e-25,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.2843923660275635e-211,
+        "field_number": 545,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.833426999294744e-26,
+        "field_number": 1296,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.097214113570937e-19,
+        "field_number": 1725,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.499426366684491e-30,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.46991923451423645,
+        "field_number": 1335,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.6878906008066432e-15,
+        "field_number": 9,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.08422438055276871,
+        "field_number": 6178691,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.726241855984773e-32,
+        "field_number": 1818,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.400236222749449e-10,
+        "field_number": 8,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.9966090293063203e-11,
+        "field_number": 79199,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGTIYU14cKjnKIO5B",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034064_1cc4f5a869.pbf",
+    "file_size": 13235,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGfNOwIZ7X_G_IP9m",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035612108_29ee918482.pbf",
+    "file_size": 40552,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EKyDvuMCGebQd1SZV1h1ILC8Ag",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043039_53afd1e795.pbf",
+    "file_size": 4053,
+    "items": [
+      {
+        "coordinate": -7.9222349740471965e-22,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.7202206456165547e-13,
+        "field_number": 6,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.284132688717036e-189,
+        "field_number": 13,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.42821818590946e-26,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.8829635164650207e-185,
+        "field_number": 11,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGXC4H7ADvGuQIKEf",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903694_3d48eb34dd.pbf",
+    "file_size": 216,
+    "items": [
+      {
+        "coordinate": -1.0373039268858917e-17,
+        "field_number": 1779,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGanBgfXB_klfIKUB",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032449_774629bd6c.pbf",
+    "file_size": 6575,
+    "items": [
+      {
+        "coordinate": -2.719721183125965e-229,
+        "field_number": 1948,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.186481098836337e-249,
+        "field_number": 168958,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.2420599543881616e-97,
+        "field_number": 83920,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.417190170514275e-143,
+        "field_number": 6840602,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.5944728176675582e-12,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -100.19970703125,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.2333895495791026e-250,
+        "field_number": 832276042,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGXMFmrXz9rQ_IPsy",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036049991_ff44e77ca0.pbf",
+    "file_size": 4962,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOmDvuMCGTuGFtjyEoPZIK4m",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032690_e0ca51b4f6.pbf",
+    "file_size": 5446,
+    "items": [
+      {
+        "coordinate": 8.996460428695256e-80,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.3139705359516172e-61,
+        "field_number": 1227,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.4037516728757655e-12,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGZoEULYIZxoXIJIq",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035999460_9eb082353b.pbf",
+    "file_size": 5171,
+    "items": [
+      {
+        "coordinate": 5.130406628674206e-278,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.9155862885022016e-165,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.221549661490659e-94,
+        "field_number": 12,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.169212646113345e-08,
+        "field_number": 1468,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 94.79193878173828,
+        "field_number": 13,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.65209859560069e-15,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.9835840871590323e-26,
+        "field_number": 104,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.067496670705054e-10,
+        "field_number": 6,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4341264342192149e-33,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.239136742405238e-18,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.555653830697179e-19,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.002024683784522e-295,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.00022212776821106672,
+        "field_number": 1270,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.102668596657489e-31,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.01565132476389408,
+        "field_number": 417157438328,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.0572285406290892e-16,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.6843339251864393e-13,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.7404727530021094e-146,
+        "field_number": 56440,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.7210015101950174e-202,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.681499146430705e-221,
+        "field_number": 126578,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.9308596178467204e-283,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 174.19632544704325,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.139373590631926e-22,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.33685649797954e-294,
+        "field_number": 1144739871365801531,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.880275969811961,
+        "field_number": 1314,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.545399923566268e-173,
+        "field_number": 63403,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.809385615064935e-108,
+        "field_number": 174451,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGZ7nCfHl_nB6IP8n",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036025065_58443c1a3a.pbf",
+    "file_size": 2805,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EI2EvuMCGcuRi81H4y9FIMEV",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903528_f59bfde8d2.pbf",
+    "file_size": 2189,
+    "items": [
+      {
+        "coordinate": 6.759130632546383e-38,
+        "field_number": 150282,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.5191241277065504e-12,
+        "field_number": 6,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.1630838562298796e-23,
+        "field_number": 191,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -43.26213073730469,
+        "field_number": 995,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.631435706895134e-293,
+        "field_number": 13526910,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.827373378450966e-44,
+        "field_number": 211277,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.5126041863556454e-290,
+        "field_number": 13369035,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGaZndtH_Rk-CINkQ",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611950_6ff4355a46.pbf",
+    "file_size": 50,
+    "items": [
+      {
+        "name": "ELD-veMCGe5Y-TOpAhY5IPfOAg",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032472_723ae2e713.pbf",
+    "file_size": 5932,
+    "items": [
+      {
+        "coordinate": 2.2621966068531602e-91,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.6653128336962488e-32,
+        "field_number": 1942,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGfUJ7ULKDOSEIPgt",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036050001_023cbc7b6e.pbf",
+    "file_size": 5190,
+    "items": [
+      {
+        "coordinate": -6.658006689851875e-13,
+        "field_number": 3732019511,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.1667909120491908e-22,
+        "field_number": 6722520,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.6678689362945212e-301,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.522082880996434e-32,
+        "field_number": 3,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.5796662305796637e-46,
+        "field_number": 15350505,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.1824535992844286e-263,
+        "field_number": 1733,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.3674135676936269e-162,
+        "field_number": 53809,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGXgkAJqQs8EfIJIo",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611886_1cc44bb226.pbf",
+    "file_size": 4377,
+    "items": [
+      {
+        "coordinate": -4.465285139059328e-27,
+        "field_number": 1420,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGV8RYCikJO-qIOUh",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903711_b3a53a3ba4.pbf",
+    "file_size": 4017,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGVL2V9m6Yk5PIP0e",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036048855_589182205a.pbf",
+    "file_size": 3409,
+    "items": [
+      {
+        "coordinate": -5.539924855663125e-12,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.557986717462048e-35,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.234175267479179e-14,
+        "field_number": 90206,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGa9rhlKvllP3IJ0a",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034320_1f2c3c15d7.pbf",
+    "file_size": 13261,
+    "items": [
+      {
+        "coordinate": 21.757631301879883,
+        "field_number": 1,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.1751277981501486e-283,
+        "field_number": 3,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.0650406248149231e-176,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.3989636284080368e-42,
+        "field_number": 982,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.826744367343274e-30,
+        "field_number": 75,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.907750936124808e-176,
+        "field_number": 12,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.8163339492355646e-207,
+        "field_number": 1256071791,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.729848272653096e-32,
+        "field_number": 94984,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.931617780812303e-08,
+        "field_number": 247271,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.064248816082744e-79,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.5634690814513306e-08,
+        "field_number": 3,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.24254761636257172,
+        "field_number": 483,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.4641973500176e-20,
+        "field_number": 190150,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.992870578423171e-20,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.1981569836078522e-154,
+        "field_number": 6,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EI2EvuMCGQ5GvZCLHuK9IJln",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032467_69f82a47c6.pbf",
+    "file_size": 6731,
+    "items": [
+      {
+        "coordinate": -1.712220597753164e-63,
+        "field_number": 1480,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.3300577979067621e-226,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.2163902758158095e-38,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.021946479230142e-27,
+        "field_number": 12,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.028189949691295624,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.058624880186852e-207,
+        "field_number": 10,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.092600401905906e-15,
+        "field_number": 3,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGVpSIAUq6yvGIJc0",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034033_b85d3f44c0.pbf",
+    "file_size": 11693,
+    "items": [
+      {
+        "coordinate": 2.391056219108093e-130,
+        "field_number": 879,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.312386699000359e-39,
+        "field_number": 217,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.458800839863048e-178,
+        "field_number": 502760267,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.0474389678403213e-09,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.7489035790555566e-21,
+        "field_number": 633414148,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.3726793545918094e-37,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.475438928849674e-95,
+        "field_number": 8,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.8303609332066425e-167,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.9229516705387435e-15,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.436811447143555,
+        "field_number": 1955,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.423101388657348e-225,
+        "field_number": 3,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENyDvuMCGaLkXW9Bv0_WIPla",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022219_cbd5c3d53b.pbf",
+    "file_size": 1637,
+    "items": [
+      {
+        "coordinate": 2.3488572370044393e-298,
+        "field_number": 1507,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGQxxOknF3KmnILEM",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611922_751d020492.pbf",
+    "file_size": 13799,
+    "items": [
+      {
+        "coordinate": 1.3904604822204377e-29,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4218375937121909e-31,
+        "field_number": 71907,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.013177916597379e-39,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.0130117407021214e-179,
+        "field_number": 24817,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.593995744736848e-12,
+        "field_number": 13,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.83428241723113e-35,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.312824861120207e-227,
+        "field_number": 48065,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.392458267892811e-20,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EMWDvuMCGS_boeQ9_dlYILNr",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022215_0ece3719c4.pbf",
+    "file_size": 799,
+    "items": [
+      {
+        "coordinate": -2.4349727225069543e-38,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.509518489458171e-35,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.8387625004834263e-06,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.106564673172551e-207,
+        "field_number": 47996523294871,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.869638657419587e-241,
+        "field_number": 10,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.587997291793157e-14,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EJiEvuMCGUjMdoo0TiNUIOsF",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036049925_362eb8eb54.pbf",
+    "file_size": 4932,
+    "items": [
+      {
+        "coordinate": -2.7139216407883883e-37,
+        "field_number": 1420,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.637217481280463e-159,
+        "field_number": 58112557682991,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGZQKWKu152KGIJAm",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022198_bca5fa68d4.pbf",
+    "file_size": 6752,
+    "items": [
+      {
+        "coordinate": 9.585693871610869e-08,
+        "field_number": 947,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.7966533303260803,
+        "field_number": 15,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.272154208389111e-05,
+        "field_number": 1,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.888923220661655e-302,
+        "field_number": 1109,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.5196041253450497e-77,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.724750329877179e-12,
+        "field_number": 1623,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.116840392745197e-30,
+        "field_number": 909,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.796193567139431e-31,
+        "field_number": 872,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGTwOCWhc0vfgIKw0",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036035849_537c7f9093.pbf",
+    "file_size": 12874,
+    "items": [
+      {
+        "coordinate": -8.723676199016542e-172,
+        "field_number": 14129,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.407250988103535e-251,
+        "field_number": 219531,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.747406463860403e-38,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.719896575006814e-86,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.159974064596452e-38,
+        "field_number": 5,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.925340077456631e-11,
+        "field_number": 259785,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.726232616291583e-88,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.155671359950546e-11,
+        "field_number": 1822,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.2737434788827351e-36,
+        "field_number": 1986,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGbS75jVyMZFaIJZk",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903428_fd702b97db.pbf",
+    "file_size": 3330,
+    "items": [
+      {
+        "coordinate": -7.506788218325232e-277,
+        "field_number": 1219,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.278053623419243e-185,
+        "field_number": 279,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.2561671888100813e-38,
+        "field_number": 199238,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.273755302927078e-29,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.258443025224293e-31,
+        "field_number": 10829,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGVDcOOJyOunPIM4Z",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043704_a31103a9b9.pbf",
+    "file_size": 3323,
+    "items": [
+      {
+        "coordinate": -1.4384249657586305e-177,
+        "field_number": 1019,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4753351988131898e-229,
+        "field_number": 13,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.7187668148635732e-17,
+        "field_number": 130800,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.4064779580016304e-26,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.622723579406738,
+        "field_number": 75,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGWU0dLyHK5RZIMcZ",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035908148_997fc84f29.pbf",
+    "file_size": 233,
+    "items": [
+      {
+        "coordinate": -2.310946221267783e-32,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.7707448773537518e-33,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.8734202443940196e-34,
+        "field_number": 57451,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGfH_63YbCZWLILUB",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903414_2bade47896.pbf",
+    "file_size": 3470,
+    "items": [
+      {
+        "coordinate": 1.1778318392222792e-14,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGXKCydsrVzEYINoa",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036024984_8c1bbebb8b.pbf",
+    "file_size": 3834,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EI2EvuMCGWIB2YqO2_wXIMYd",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036035736_7c16199466.pbf",
+    "file_size": 4911,
+    "items": [
+      {
+        "coordinate": -6.541669599597649e-217,
+        "field_number": 12,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGbhGH5fGhbO8IPsl",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035908144_7a71083967.pbf",
+    "file_size": 771,
+    "items": [
+      {
+        "coordinate": 72.3624038696289,
+        "field_number": 5,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.911492452409033e-248,
+        "field_number": 10,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.03132467344403267,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.631587756865287e-24,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGQTpaI_XAzgBIM8F",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043699_9ad7a9cbd4.pbf",
+    "file_size": 3944,
+    "items": [
+      {
+        "coordinate": -2.0865546533976707e-268,
+        "field_number": 75,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.6533364507149134e-184,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.9763536862515097e-17,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.688952093256099e-164,
+        "field_number": 2,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.0851357040241873e-32,
+        "field_number": 10038432,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.6915595846049875e-33,
+        "field_number": 343,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.3612691242591038e-101,
+        "field_number": 1813,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.270776727655167e-105,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.670888176916761e-29,
+        "field_number": 3,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.9416659933023222e-187,
+        "field_number": 1134,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.8012519206290775e-263,
+        "field_number": 2322448796,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.819049744516046e-283,
+        "field_number": 11,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.196065103673334e-19,
+        "field_number": 1693,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.2313066625729905e-151,
+        "field_number": 24649971,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.9664451460455396e-291,
+        "field_number": 14473513,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.4976439998090816e-09,
+        "field_number": 6,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.0040726414881647e-05,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.8933064299963007e-07,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.000719522404229e-198,
+        "field_number": 3,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.5594155162867945e-34,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.284443309213544e-195,
+        "field_number": 2,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.426352813790225e-38,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.6713320180952729e-12,
+        "field_number": 11455062,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.459603685282644e-11,
+        "field_number": 6,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGXX4PD0GWX6xILQe",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036040197_93fcae5c6c.pbf",
+    "file_size": 5358,
+    "items": [
+      {
+        "coordinate": 3.35485395535744e-207,
+        "field_number": 815,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGXRqdyj1cYy8ILop",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032853_5370309d8a.pbf",
+    "file_size": 1542,
+    "items": [
+      {
+        "coordinate": -1.508742255144256e-236,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.1996248643373678e-262,
+        "field_number": 23106985,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.1330852015277735e-11,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.586965354711726e-293,
+        "field_number": 325,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGbcTIsCWFyWZINIL",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034076_8d5e287a0d.pbf",
+    "file_size": 11614,
+    "items": [
+      {
+        "coordinate": 2.744125839859745e-21,
+        "field_number": 3,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.3212115183147189e-55,
+        "field_number": 1656,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGXoJqmGH8taTIKpa",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032483_360a694979.pbf",
+    "file_size": 6018,
+    "items": [
+      {
+        "coordinate": -8.264943729408003e-10,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.004394330802617e-214,
+        "field_number": 24577707809516,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.554838514145527e-72,
+        "field_number": 11,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGcRHjxcnm4wDIM4u",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022176_0239e24800.pbf",
+    "file_size": 6828,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGQ4KmRx-wJSkIPg0",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034422_40d1691201.pbf",
+    "file_size": 11861,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EI2EvuMCGfaB0GWEmmFyIKFc",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043059_ba11f8b30b.pbf",
+    "file_size": 3076,
+    "items": [
+      {
+        "coordinate": 2.596092801514645e-11,
+        "field_number": 8,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGbud_wAdajmJINAX",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022406_8396590a7d.pbf",
+    "file_size": 12620,
+    "items": [
+      {
+        "coordinate": 3.7992993281490254e-38,
+        "field_number": 2490840227,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.6194981682665767e-36,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.6160902883106439e-21,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.251288488569844e-191,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.389850940679176e-23,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.717776841036278e-99,
+        "field_number": 2,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGbXQfVEgEzJlIJhi",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022171_022673151d.pbf",
+    "file_size": 8651,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGfnazRd-XK8cIJdD",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034082_4bd3f097d3.pbf",
+    "file_size": 6017,
+    "items": [
+      {
+        "coordinate": -7.053851828729974e-300,
+        "field_number": 13,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.925317116892809e-23,
+        "field_number": 169582,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGYD9pCJSXoSfIM0u",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611357_1cd09254ee.pbf",
+    "file_size": 8576,
+    "items": [
+      {
+        "coordinate": -2.6271770707199434e-115,
+        "field_number": 610,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.279064190430931e-293,
+        "field_number": 943,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.7271725259359743e-25,
+        "field_number": 13,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 96.77736573011722,
+        "field_number": 8752,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.079165326235481e-96,
+        "field_number": 6,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.463650716505806e-30,
+        "field_number": 2826,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.848222681796415e-09,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGbfMZ8jT3XSaIMxC",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036024990_12f53ee0dd.pbf",
+    "file_size": 6912,
+    "items": [
+      {
+        "coordinate": -5.113962445441792e-21,
+        "field_number": 4,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGcn5xxM28lOXIMw1",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903415_b6865e2fe3.pbf",
+    "file_size": 448,
+    "items": [
+      {
+        "coordinate": 1.593572614477759e-25,
+        "field_number": 15,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.0464716379743475e-22,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.480173903448982e-155,
+        "field_number": 183453,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.3790208558693848e-07,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGQjk7oxf37XfIIwD",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611945_6f44ea5749.pbf",
+    "file_size": 7752,
+    "items": [
+      {
+        "coordinate": 4.109602530990904e-244,
+        "field_number": 334197859,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.284416964176054e-183,
+        "field_number": 785,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGUsE6ImyaEfRIJQ8",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032479_75b5462b46.pbf",
+    "file_size": 1630,
+    "items": [
+      {
+        "coordinate": 2.502194807803448e-25,
+        "field_number": 15,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.5429969725088165e-249,
+        "field_number": 3389389,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.05427800403006e-285,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -104.80702284084349,
+        "field_number": 1574,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.5026937102611806e-21,
+        "field_number": 1257,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.152439995033183e-27,
+        "field_number": 26517019,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.5236231153889322e-31,
+        "field_number": 613,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGaiNQv4VTU0zIKoM",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903531_951408eb9c.pbf",
+    "file_size": 224,
+    "items": [
+      {
+        "coordinate": 7.366135241302952e-22,
+        "field_number": 1925,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.082852768058565e-258,
+        "field_number": 1531,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4997913302053138e-59,
+        "field_number": 239905,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGWPvDWaGPYeRIK0B",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036040167_da9c01c750.pbf",
+    "file_size": 232,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGaPf2BEsniwLILQB",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036024977_9efc408995.pbf",
+    "file_size": 4395,
+    "items": [
+      {
+        "coordinate": -1.324991444562329e-06,
+        "field_number": 172,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.731514982943522e-68,
+        "field_number": 15,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.39374828338623,
+        "field_number": 1450,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGXaTQyvAhnE9IPch",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032583_7b9ee3ca6a.pbf",
+    "file_size": 8896,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGb7mCNUQr5r8IIxF",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043042_72baaa5fc4.pbf",
+    "file_size": 3890,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGSxt7vrTrivMIP4d",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611414_0c53bf51f3.pbf",
+    "file_size": 8373,
+    "items": [
+      {
+        "coordinate": -3.688580576337306e-171,
+        "field_number": 1425,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.45203325152397156,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.816465992822486e-07,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.636122402367986e-37,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.990588663491337e-12,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.04201303794980049,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGfN_NZCCnbvRIIFB",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903391_90af8ed04c.pbf",
+    "file_size": 191,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGe6hog3uoqhDIIwB",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903403_903f5a34ca.pbf",
+    "file_size": 5355,
+    "items": [
+      {
+        "coordinate": 1.8749975530529817e-14,
+        "field_number": 131609,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.0465688287314848e-286,
+        "field_number": 672,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.4731295425441015e-21,
+        "field_number": 6,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.3085612155295693e-16,
+        "field_number": 1793,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.464099945227058e-149,
+        "field_number": 111,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.089830774505077e-38,
+        "field_number": 1539,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.3690837777976717e-163,
+        "field_number": 4,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.4459626266599396e-30,
+        "field_number": 17405127,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.5280096673077492e-156,
+        "field_number": 4,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.579468764844294e-61,
+        "field_number": 1828,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -54.85274887084961,
+        "field_number": 9,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.4816422625150772e-253,
+        "field_number": 12,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.956905026830418e-13,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.278740900394041e-06,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGQR0kWHWXJ-CILcp",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043108_9b642b56a5.pbf",
+    "file_size": 2960,
+    "items": [
+      {
+        "coordinate": 0.006239164154976606,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.5568257865901953e-13,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.8652559314632526e-08,
+        "field_number": 14,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.152393780624519e-244,
+        "field_number": 1899,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOmDvuMCGaVhZn2ekdZ4INwW",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903427_28abe5c801.pbf",
+    "file_size": 3090,
+    "items": [
+      {
+        "coordinate": 2.593449470035336e-101,
+        "field_number": 233337,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.123075093143018e-230,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.4745065853931525e-38,
+        "field_number": 360,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.972571849822998,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.5344995916299754e-31,
+        "field_number": 1,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.129056190412474e-18,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -79.52545928955078,
+        "field_number": 12,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.515566953902026e-16,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.00613795779645443,
+        "field_number": 242,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.0360726392911023e-32,
+        "field_number": 89952,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGREzPfSw9ABKIN4X",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034095_49140bf3d3.pbf",
+    "file_size": 15224,
+    "items": [
+      {
+        "coordinate": -1.6079618594018394e-250,
+        "field_number": 15,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.271512200887556e-35,
+        "field_number": 8,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.5243063905178404e-28,
+        "field_number": 1673,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.636428296824794e-135,
+        "field_number": 767,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.4369212446326856e-06,
+        "field_number": 1564,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.5925186516718703e-12,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.3902416165670944e-19,
+        "field_number": 334,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.891256230675573e-15,
+        "field_number": 681,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGetC-zfVVFFqIMR2",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022213_150d3e433f.pbf",
+    "file_size": 4000,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGXqR9lenL3IyIOwe",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043048_84314d33af.pbf",
+    "file_size": 3345,
+    "items": [
+      {
+        "coordinate": -9.544960377638745e-10,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.699819735458967e-13,
+        "field_number": 20225119,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.461620259182829e-23,
+        "field_number": 153304,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.982432625375755e-105,
+        "field_number": 756,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.796108447185788e-70,
+        "field_number": 847211962,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGa-CCVkP4JVYIN0Z",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903399_41c9a89422.pbf",
+    "file_size": 2246,
+    "items": [
+      {
+        "coordinate": 4.2929233415413506e-122,
+        "field_number": 2,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.095282221848632e-251,
+        "field_number": 30228019,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.2632356724163393e-06,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.745659489409093e-25,
+        "field_number": 1786,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.430396457118247e-126,
+        "field_number": 2,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.1838516282630326e-17,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGRRZJJEA_jIbIJIR",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022240_a951a4eee4.pbf",
+    "file_size": 3557,
+    "items": [
+      {
+        "coordinate": -1.4528806389268812e-132,
+        "field_number": 21832,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.2444167381069353e-31,
+        "field_number": 1192,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.780992892028387e-116,
+        "field_number": 3,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.2190520081022353e-112,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.5402741153148915e-126,
+        "field_number": 243963,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.461003500056677e-30,
+        "field_number": 5,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.066653596764153e-18,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.2280801987040098e-18,
+        "field_number": 49935,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGa9KjChzIjK0ILEb",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036035768_8015f4a0bd.pbf",
+    "file_size": 10639,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGfGhCSP4LQw3INtS",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022251_832bef8c93.pbf",
+    "file_size": 7041,
+    "items": [
+      {
+        "coordinate": 3.689570180061963e-255,
+        "field_number": 13,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.324377953257859e-32,
+        "field_number": 816,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.7088324050256534e-38,
+        "field_number": 15,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.057384985681736e-21,
+        "field_number": 147,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.646262716257399e-165,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.4283733258752839e-146,
+        "field_number": 10,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.78927739081081e-10,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGTLAT5fnZPQzIM02",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043035_96b8bb0e7a.pbf",
+    "file_size": 3600,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGStKBtISBNPnINwb",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043058_2b88d0ac0f.pbf",
+    "file_size": 4230,
+    "items": [
+      {
+        "coordinate": -2.005206126626969e-24,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.1550129028297965e-23,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.3139558885377767e-12,
+        "field_number": 133326,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGbwZ0Fw1o5fjINIg",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035999453_2f3f585efc.pbf",
+    "file_size": 4301,
+    "items": [
+      {
+        "coordinate": 6.878583500342912e-28,
+        "field_number": 233430,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.943913379710955e-61,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.563650420311351e-37,
+        "field_number": 1,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.616974911186844e-05,
+        "field_number": 13,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.138502793692703e-84,
+        "field_number": 203458,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -9.857920915211947e-166,
+        "field_number": 10,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.2346565144725098e-29,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.3571417664631988e-226,
+        "field_number": 56534,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOiAvuMCGXkUiLhnRBkpIJkh",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036022502_efdabc5d3f.pbf",
+    "file_size": 408,
+    "items": [
+      {
+        "coordinate": 1.9670395867699142e-10,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.967047928516877e-08,
+        "field_number": 2938175222,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 8.487600136899079e-36,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGQJ_b7Sz3dPoIOQC",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034408_a98cb7cd14.pbf",
+    "file_size": 13448,
+    "items": [
+      {
+        "coordinate": -1.2793493825217638e-12,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.8631971150966704e-190,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.403964340290835e-102,
+        "field_number": 48960674911789,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.4031540580221835e-167,
+        "field_number": 687,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EOCEvuMCGTC50B1CAwKQINRo",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611984_50e19be537.pbf",
+    "file_size": 16545,
+    "items": [
+      {
+        "coordinate": 1.0775260067624687e-32,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.5897062787755843e-246,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.567176909506708e-24,
+        "field_number": 344,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGUFkd381L4PnIOmAAQ",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034007_4b5a336ad3.pbf",
+    "file_size": 11119,
+    "items": [
+      {
+        "coordinate": -1.06326202088367e-94,
+        "field_number": 11,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.1158409777025247e-211,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.830156168049951e-185,
+        "field_number": 294932958843,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.00015714277105871588,
+        "field_number": 6,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.562643833744176e-45,
+        "field_number": 3,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.193774521607784e-296,
+        "field_number": 1,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.007470058277249336,
+        "field_number": 10,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.5143786697596078e-297,
+        "field_number": 1610,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.2991928037874015e-15,
+        "field_number": 10167,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.918529067230954e-25,
+        "field_number": 13,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.4190873606932624e-21,
+        "field_number": 208079,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.8411900964477257e-35,
+        "field_number": 15,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.8083445338523977e-209,
+        "field_number": 4,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.466299713904112e-13,
+        "field_number": 2211265,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGZQLViQnWNYlILtW",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034021_959c77985b.pbf",
+    "file_size": 14779,
+    "items": [
+      {
+        "coordinate": -2.3717510175527675e-32,
+        "field_number": 431,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.657225989753589e-33,
+        "field_number": 14644170,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.1001745847315243e-295,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGS2DR4-RsOhIIIdz",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032553_cdcc2094f9.pbf",
+    "file_size": 4518,
+    "items": [
+      {
+        "coordinate": -2.379015415964808e-22,
+        "field_number": 9,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.561825682269795e-171,
+        "field_number": 11,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.4264442920684814,
+        "field_number": 1962,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.588268714753549e-181,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 9.654726367628398e-225,
+        "field_number": 8,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.0592595059606633e-46,
+        "field_number": 4,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.6095663842139257e-232,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.003346194331709e-05,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -6.4319061076538585e-189,
+        "field_number": 13,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGdA2Rh8M2oY2IPIi",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043022_8b9b0ea32d.pbf",
+    "file_size": 4147,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EI2EvuMCGf_m_bGG5OpDIP8f",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035585364_ccd93beefd.pbf",
+    "file_size": 223,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EJjXveMCGQEI6IRGvZiRIKwB",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036035756_a2011cfe39.pbf",
+    "file_size": 9016,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGVNS6ngqB5nHIIRG",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036049903_9c9bfaf4aa.pbf",
+    "file_size": 1761,
+    "items": [
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGUzKbdeFiUyHIK0N",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036050068_100bcd10d4.pbf",
+    "file_size": 3485,
+    "items": [
+      {
+        "coordinate": -9.713958704282818e-256,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.964396256173748e-122,
+        "field_number": 39518628973,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.2106505111931674e-228,
+        "field_number": 11,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 5.3248948575290245e-16,
+        "field_number": 969,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.661989298648397e-114,
+        "field_number": 1611,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EI2EvuMCGd6uPQH33_LcIOka",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035611746_0f51cfdbd3.pbf",
+    "file_size": 4840,
+    "items": [
+      {
+        "coordinate": -1.98272082823728e-21,
+        "field_number": 11,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.8106416208746782e-25,
+        "field_number": 1035,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.7460665680555394e-08,
+        "field_number": 76571,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.9652557280299673e-184,
+        "field_number": 45760217691016,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.326555313368471e-306,
+        "field_number": 183504,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.3772914012291622e-37,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.820605480515004e-119,
+        "field_number": 1011,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -3.384355865008436e-171,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.012826371937990189,
+        "field_number": 528725631131369992,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.5058744829514008e-50,
+        "field_number": 5,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.961142733395908e-64,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.323409138899295e-37,
+        "field_number": 892,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.6220946440208285e-28,
+        "field_number": 25668870,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.373874324164695e-304,
+        "field_number": 9,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.954033516563668e-143,
+        "field_number": 12,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.3387537589400037e-203,
+        "field_number": 15,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGXyLnIlKsqslILQl",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036043045_54522bbc20.pbf",
+    "file_size": 4914,
+    "items": [
+      {
+        "coordinate": 0.06517893821001053,
+        "field_number": 2009,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.4125062953487535e-26,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.610269393056001e-270,
+        "field_number": 226,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.09389135241508484,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "EICEvuMCGW6SAok-0-_QIP4l",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756035903394_79c285b18f.pbf",
+    "file_size": 855,
+    "items": [
+      {
+        "coordinate": 3.0220993066309187e-24,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.595486642787668e-240,
+        "field_number": 1978,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -7.538029920566124e-18,
+        "field_number": 2550187,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 4.2576557771268185e-17,
+        "field_number": 1682,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 7.71502742342387e-146,
+        "field_number": 0,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.128955974620445e-22,
+        "field_number": 13,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.0169263342417027e-32,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCAvuMCGTkQtbinshL8IKMG",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036032462_574b3caff9.pbf",
+    "file_size": 6874,
+    "items": [
+      {
+        "coordinate": 8.826457217461618e-89,
+        "field_number": 131811,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.2317519121471616e-127,
+        "field_number": 2,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ELGEvuMCGVyCT497jC2iIKY1",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  },
+  {
+    "source_file": "captures/vt_1756036034049_07c2b73122.pbf",
+    "file_size": 15130,
+    "items": [
+      {
+        "coordinate": -3.757155866424e-07,
+        "field_number": 31174617,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.6661736279601206e-64,
+        "field_number": 1518,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 1.0878197713080329e-213,
+        "field_number": 7,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -0.9295639991760254,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.414106051844115e-11,
+        "field_number": 40961,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.0856537420460386e-32,
+        "field_number": 4,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 6.713110906275688e-06,
+        "field_number": 873,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.1682186722755432,
+        "field_number": 204,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 3.140268906708056e-22,
+        "field_number": 14,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -2.520528088954068e-30,
+        "field_number": 811,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.994103817485468e-232,
+        "field_number": 4,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 0.04202662780880928,
+        "field_number": 2,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": 2.648618544814001e-33,
+        "field_number": 7,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -4.519002047064262e-216,
+        "field_number": 560,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.9477370776138536e-109,
+        "field_number": 111346,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -8.35823127050487e-30,
+        "field_number": 0,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -5.467718376721492e-16,
+        "field_number": 114977,
+        "type": "float",
+        "parent_field": 1
+      },
+      {
+        "coordinate": -1.2476476503531148e-65,
+        "field_number": 11,
+        "type": "double",
+        "parent_field": 1
+      },
+      {
+        "name": "application/x-octet-stream; charset=x-user-defined",
+        "field_number": 7,
+        "type": "string",
+        "parent_field": 1
+      },
+      {
+        "name": "ENCDvuMCGT-4XNE1T_shIOZ1",
+        "field_number": 9,
+        "type": "string",
+        "parent_field": 1
+      }
+    ]
+  }
+]

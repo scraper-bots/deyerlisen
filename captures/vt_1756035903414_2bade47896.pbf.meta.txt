@@ -1,0 +1,33 @@
+URL: https://www.google.com/maps/vt/proto?bpb=Cg0KCAgLEJsKGIMGygEAEgYIABi_hD0aVhIFZW4tQVoaAkFaKNICYgIIL2ISCEQSDgoDc2V0EgdSb2FkbWFwYgIIFGIWCCMSEgoJbXVsdGl6b29tEgVmYWxzZWIPCCUSCwoJc21hcnRtYXBzoAEAIAEyJggMEAIwADgBgAIBuAIB2AIB6AIBkAMB4AMB0AQB4AEGyAIBsAMBogEGGAEwAXgBugEmzsVT0cVTut2oAumOtBbriLgW7t-5Fr_ExiLZk_gsvfT4LLSW-SwqBS0AAIA_
+
+Request headers:
+accept: */*
+accept-encoding: gzip, deflate, br
+sentry-trace: f99a056938214f36b1a615c1e7dd5fd3-d24f9931603b4713-0
+x-client-signature: 130977
+baggage: sentry-environment=production,sentry-public_key=17cb7573b9584c91679f42969d94cab1,sentry-release=az.p30.user%4039.9.9%2B7245,sentry-trace_id=f99a056938214f36b1a615c1e7dd5fd3
+user-agent: az.p30.user/39.9.9 GMS-SDK/8.4.0.0 iPhone/26.0 hw/iPhone16_1 (gzip)
+priority: u=3, i
+accept-language: en-GB,en-US;q=0.9,en;q=0.8
+
+Response headers:
+access-control-allow-origin: *
+cross-origin-resource-policy: cross-origin
+content-security-policy: script-src 'none'; object-src 'none'; base-uri 'none'
+x-content-type-options: nosniff
+x-server-version-bin: CgoIBBDqnZvFBhgB
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/mspthpsdsghrhc:106:0
+cross-origin-opener-policy-report-only: same-origin; report-to=mspthpsdsghrhc:106:0
+report-to: {"group":"mspthpsdsghrhc:106:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/mspthpsdsghrhc:106:0"}],}
+server: scaffolding on HTTPServer2
+content-length: 3470
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+date: Sun, 24 Aug 2025 11:45:03 GMT
+expires: Sun, 24 Aug 2025 12:45:03 GMT
+cache-control: public, max-age=3600
+etag: 0b8fa94c153a4104e
+content-type: application/x-octet-stream;charset=x-user-defined
+age: 0
+server-timing: gfet4t7; dur=104
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
