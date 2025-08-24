@@ -19,7 +19,50 @@ This project captures and analyzes business data from the DeyerliSen loyalty pro
 
 ## 📈 Data Analysis & Visualizations
 
+### Overview Dashboard
 ![DeyerliSen Business Analysis Charts](deyerlisen_analysis_charts.png)
+
+### Individual Chart Analysis
+
+#### 🏢 Business Category Analysis
+![Categories Pie Chart](charts/01_categories_pie.png)
+*Distribution of top 10 business categories in DeyerliSen*
+
+![Businesses per Category](charts/02_businesses_per_category.png)  
+*Number of businesses in each category (Top 15)*
+
+![Locations per Category](charts/03_locations_per_category.png)
+*Total locations across categories showing market penetration*
+
+#### ⭐ Quality & Value Metrics
+![Rating Distribution](charts/04_rating_distribution.png)
+*Customer satisfaction ratings distribution*
+
+![Discount Distribution](charts/05_discount_distribution.png)
+*Discount percentages offered by businesses*
+
+![Rating vs Discount](charts/06_rating_vs_discount.png)
+*Correlation analysis between quality and discounts*
+
+#### 📍 Geographic & Location Analysis  
+![Locations per Business](charts/07_locations_per_business.png)
+*Business expansion patterns and chain sizes*
+
+![Top Cities](charts/08_top_cities.png)
+*Major cities with highest business presence*
+
+![Single vs Multi-Location](charts/11_single_vs_multi_location.png)
+*Business expansion strategy distribution*
+
+#### 📊 Category Performance Metrics
+![Average Rating by Category](charts/09_avg_rating_by_category.png)
+*Quality rankings across business categories*
+
+![Average Discount by Category](charts/10_avg_discount_by_category.png)
+*Value proposition analysis by category*
+
+![Category Rating Heatmap](charts/12_category_rating_heatmap.png)
+*Cross-analysis of categories vs rating ranges*
 
 ### Top Business Categories
 
@@ -66,15 +109,29 @@ This project captures and analyzes business data from the DeyerliSen loyalty pro
 
 ```
 📁 Project Structure
-├── capture_all_requests.py     # mitmproxy addon for capturing API calls
-├── extract_all_businesses.py   # Main extraction script for business data  
-├── analyze_data.py            # Data analysis and chart generation
-├── captures/                  # Directory containing captured API responses
-│   ├── *.json                # Brotli-compressed DeyerliSen API responses
-│   └── *.meta.txt            # Request/response metadata
+├── capture_all_requests.py           # mitmproxy addon for capturing API calls
+├── extract_all_businesses.py         # Main extraction script for business data  
+├── analyze_data.py                   # Data analysis and overview chart generation
+├── create_individual_charts.py       # Individual detailed chart generation
+├── captures/                         # Directory containing captured API responses
+│   ├── *.json                       # Brotli-compressed DeyerliSen API responses
+│   └── *.meta.txt                   # Request/response metadata
+├── charts/                          # Individual analysis charts for detailed study
+│   ├── 01_categories_pie.png        # Business category distribution
+│   ├── 02_businesses_per_category.png # Business count by category
+│   ├── 03_locations_per_category.png  # Location density analysis
+│   ├── 04_rating_distribution.png     # Customer satisfaction analysis
+│   ├── 05_discount_distribution.png   # Discount value analysis
+│   ├── 06_rating_vs_discount.png     # Quality vs value correlation
+│   ├── 07_locations_per_business.png # Business expansion patterns
+│   ├── 08_top_cities.png             # Geographic distribution
+│   ├── 09_avg_rating_by_category.png # Category quality rankings
+│   ├── 10_avg_discount_by_category.png # Category value propositions
+│   ├── 11_single_vs_multi_location.png # Business strategy types
+│   └── 12_category_rating_heatmap.png  # Category-rating cross analysis
 ├── deyerlisen_all_businesses.json    # Complete extracted business data
-├── deyerlisen_coordinates.json      # Just coordinate pairs for mapping
-└── deyerlisen_analysis_charts.png   # Generated analysis visualizations
+├── deyerlisen_coordinates.json       # Just coordinate pairs for mapping
+└── deyerlisen_analysis_charts.png    # Overview dashboard visualization
 ```
 
 ## 🚀 Usage Instructions
@@ -96,8 +153,11 @@ python3 extract_all_businesses.py
 
 ### 3. Generate Analysis
 ```bash
-# Create statistical analysis and charts
+# Create overview statistical analysis and dashboard chart
 python3 analyze_data.py
+
+# Create individual detailed charts for specific insights
+python3 create_individual_charts.py
 ```
 
 ## 📋 Data Schema
@@ -169,9 +229,24 @@ All coordinates are validated to be within Azerbaijan's geographic boundaries.
 
 ## 📄 Output Files
 
+### Data Files
 - `deyerlisen_all_businesses.json` - Complete business dataset with full metadata
-- `deyerlisen_coordinates.json` - Simplified coordinate pairs for mapping applications  
-- `deyerlisen_analysis_charts.png` - Comprehensive statistical visualizations
+- `deyerlisen_coordinates.json` - Simplified coordinate pairs for mapping applications
+
+### Visualization Files  
+- `deyerlisen_analysis_charts.png` - Comprehensive overview dashboard
+- `charts/01_categories_pie.png` - Category distribution pie chart
+- `charts/02_businesses_per_category.png` - Business count by category
+- `charts/03_locations_per_category.png` - Location density analysis
+- `charts/04_rating_distribution.png` - Rating distribution histogram
+- `charts/05_discount_distribution.png` - Discount percentage analysis
+- `charts/06_rating_vs_discount.png` - Quality vs value correlation
+- `charts/07_locations_per_business.png` - Business expansion patterns
+- `charts/08_top_cities.png` - Geographic distribution
+- `charts/09_avg_rating_by_category.png` - Category performance rankings
+- `charts/10_avg_discount_by_category.png` - Value proposition by category
+- `charts/11_single_vs_multi_location.png` - Business strategy analysis
+- `charts/12_category_rating_heatmap.png` - Category-rating cross analysis
 
 ## ⚖️ Legal & Ethical Notes
 
